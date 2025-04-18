@@ -1,0 +1,31 @@
+1. LangChain: Chat with Your Data - Create a chatbot using LangChain to interface with your private data and documents. Learn from LangChain creator, Harrison Chase.
+  2. Generative AI for Everyone - Understand the capabilities & limitations of generative AI and its impact on business & society. Real-world examples included.
+  3. Large Language Models with Semantic Search - Use LLMs to enhance search and summarize results using Cohere Rerank and embeddings for dense retrieval.
+  4. Finetuning Large Language Models - Discover when to use finetuning vs prompting for LLMs, select suitable open-source models, prepare data, and train & evaluate for your specific domain.
+  5. Understanding and Applying Text Embeddings - Accelerate application development with text embeddings for sentence and paragraph meaning.
+  6. How Diffusion Models Work - Learn and build diffusion models from the ground up, understanding each step, and learn about diffusion models in use today.
+  7. LangChain: ChatGPT API Development - Break down complex tasks, automate workflows, chain LLM calls, evaluate inputs & outputs for safety and relevance.
+  8. AI for Good - Framework for AI project development, build models for air quality, wind energy, biodiversity, disaster management, explore case studies on public health & climate change.
+  9. ChatGPT Prompt Engineering for Developers - Fundamentals of prompt engineering for ChatGPT, learn effective prompting and how to use LLMs for summarizing, inferring, transforming, and expanding.
+10. Building Systems with the ChatGPT API - Learn to chain LLM calls, automate workflows, and get better outputs from LLMs. Evaluate inputs & outputs for safety and relevance.
+11. Mathematics for Machine Learning and Data Science - Explore the fundamental mathematics toolkit of machine learning: calculus, linear algebra, statistics, and probability.
+12. Advanced Retrieval for AI with Chroma - Learn advanced retrieval techniques to improve the relevancy of retrieved results. Learn to recognize poor query results and use LLMs to improve queries.
+13. Reinforcement Learning from Human Feedback (RLHF) - Get an introduction to tuning and evaluating LLMs using RLHF and fine-tune the Llama 2 model.
+14. Pair Programming with a Large Language Model - Learn how to prompt an LLM to help improve, debug, understand, and document your code. Use LLMs to simplify your code and enhance productivity.
+15. Quality and Safety for LLM Applications - Learn how to evaluate the safety and security of your LLM applications and protect against risks. Monitor and enhance security measures to safeguard your apps.
+16. Functions, Tools and Agents with LangChain - Learn about the latest advancements in LLM APIs and use LangChain Expression Language (LCEL) to compose and customize chains and agents.
+17. Vector Databases: from Embeddings to Applications - Design and execute real-world applications of vector databases. Build efficient, practical applications, including hybrid and multilingual searches.
+18. Building Generative AI Applications with Gradio - Create and demo machine learning applications quickly. Share your app with teammates and beta testers on Hugging Face Spaces.
+19. Evaluating and Debugging Generative AI Models Using Weights and Biases - Learn MLOps tools for managing, versioning, debugging, and experimenting in your ML workflow.
+20. Large Language Models with Semantic Search (Advanced) - Learn to use LLMs to enhance search & summarize results, using Cohere Rerank, embeddings for dense retrieval, and more advanced techniques.
+21. LangChain Expression Language (LCEL) - Master the powerful LangChain expression language for building custom LLM applications.
+22. Fine-tuning Large Language Models: Best Practices - Learn best practices for fine-tuning large language models for your specific domain or use case, including data preparation, model selection, and evaluation strategies.
+23. Generative AI Ethics & Social Impact - Understand the ethical implications of generative AI and its impact on society, and learn strategies to mitigate potential negative consequences.
+24. Building Advanced RAG Applications (Advanced) - Learn advanced RAG retrieval methods like sentence-window and auto-merging that outperform baselines, and evaluate and iterate on your pipeline's performance.
+25. LangChain: Customizing Your LLM Workflow - Learn how to customize your LLM workflow with LangChain, including creating custom pipelines, integrating third-party services, and more.
+26. Diffusion Models for Image Synthesis - Explore the use of diffusion models for image synthesis, learn how they differ from GANs, and see examples of high-quality image generation.
+27. LLM-based Document Summarization - Learn techniques for summarizing long documents using large language models, including extractive and abstractive summarization methods.
+28. Building AI Assistants with LangChain - Create your own AI assistant using LangChain, including natural language understanding, dialog management, and more.
+29. LLM-based Text Classification & Named Entity Recognition (NER) - Learn how to use large language models for text classification and named entity recognition tasks, including best practices and common pitfalls.
+30. Human-in-the-loop Learning with LangChain - Learn how to build human-in-the-loop learning systems using LangChain, including active learning strategies, feedback loops, and more.
+

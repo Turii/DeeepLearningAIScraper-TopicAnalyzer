@@ -13,8 +13,8 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Reports
-/reports/
-/mistral_reports/
+# /reports/
+# /mistral_reports/
 
 # System
 .DS_Store
